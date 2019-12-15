@@ -5,7 +5,7 @@
 
 ### 本项目是完成内师大2019研究生机器翻译期末作业
 
-## 参考如下网站进行d代码解读
+## 参考如下网站进行代码解读
 https://blog.csdn.net/w6280190/article/details/90078245
 https://blog.csdn.net/qysh123/article/details/91245246
 https://www.cnblogs.com/HolyShine/p/9850822.html
